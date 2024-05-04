@@ -1,5 +1,28 @@
 {
   "dependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "name": "fizzbuzz",
+  "description": "making fizzbuzz module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HLVN-1/fizzbuzz.git"
+  },
+  "author": "Jason Newsom <jnewsom405@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HLVN-1/fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/HLVN-1/fizzbuzz#readme",
+  "keywords": [
+    "module",
+    "practice"
+  ]
 }
